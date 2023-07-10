@@ -1,0 +1,1 @@
+In R, I created a classification model to assess the features of the wines in the dataset and their quality: either they are good or bad. This model is then used to accurately predict the outcome of the wine quality using testing data.
